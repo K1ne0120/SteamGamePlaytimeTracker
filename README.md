@@ -49,7 +49,7 @@ Tracker/  # 项目根目录
 - 支持 Python 3.8 及以上版本
 - 安装依赖库：
   ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 
 ### 2. 配置 Steam 路径
@@ -157,7 +157,7 @@ Tracker/  # Project root directory
 - Supports Python 3.8 and above
 - Install dependent libraries:
   ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 
 ### 2. Configure Steam Path
